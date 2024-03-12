@@ -27,7 +27,7 @@ public class FinishLine : MonoBehaviour
     {
 
         //lineCrossed = true;
-        Debug.Log("loading the game ending cut scene");
+        Debug.Log("loading the game ending cutscene");
         StartCoroutine(LoadLevel());
 
     }
